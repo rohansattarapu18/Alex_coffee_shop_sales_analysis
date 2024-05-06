@@ -15,9 +15,9 @@ The dataset includes total sales, footfall, average bill per person, and sales d
 -Understand customer preferences in product sizes and types.
 
 ## Files Included
-# Coffee Shop Sales Analysis.pdf: Documentation of data and analysis.
-# coffee shop sales project.xlsx: Excel file with raw data and calculations.
-# image.png: Visualizations of the analyzed data.
+Coffee Shop Sales Analysis.pdf: Documentation of data and analysis.
+coffee shop sales project.xlsx: Excel file with raw data and calculations.
+image.png: Visualizations of the analyzed data.
 
 ## How to Run
 Review the PDF for a detailed analysis.
