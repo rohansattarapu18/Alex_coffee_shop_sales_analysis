@@ -19,10 +19,8 @@ Coffee Shop Sales Analysis.pdf: Documentation of data and analysis.
 coffee shop sales project.xlsx: Excel file with raw data and calculations.
 image.png: Visualizations of the analyzed data.
 
-## How to Run
-Review the PDF for a detailed analysis.
-Use the Excel file to explore raw data and modify parameters.
-Visualize the data with the provided charts in the PNG image.
+![image](https://github.com/rohansattarapu18/Alex_coffee_shop_sales_analysis_in_Excel/assets/168495778/7ea9e01c-bf2c-406a-841d-51ec3a4f1340)
+
 
 ## Contributing
 Feel free to fork this repository to extend the analysis or refine the existing models. Contributions to improve the visualization or efficiency of data processing are welcome.
